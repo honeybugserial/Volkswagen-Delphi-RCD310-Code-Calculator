@@ -80,6 +80,7 @@ pip install rich pygetwindow screeninfo
 ```
 pip install pyinstaller
 pyinstaller --onefile --icon=vwRadio.ico --hidden-import rich._unicode_data.unicode17-0-0 RCD310_CodeCalc-final.py
+```
 
 ## ⚠️ Disclaimer
 
