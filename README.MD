@@ -20,7 +20,6 @@
   - Region string
   - Sirius ESN (if present)
   - User presets (Sirius-equipped units)
-- **Beautiful Terminal UI** — Built with [Rich](https://github.com/Textualize/rich) for colorful tables, panels, and animated ASCII header.
 - **User-Friendly** — 
   - Drag & drop or file picker (no command line required)
   - `--force` mode for edge cases
