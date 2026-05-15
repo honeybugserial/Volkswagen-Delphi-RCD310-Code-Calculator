@@ -10,7 +10,7 @@
 ## ✨ Features
 
 - **Accurate Radio Code Extraction** — Reads the 4-byte XOR-encoded code at `0xA0` (XOR key `0x65656565`) and formats it as a clean 4-digit code.
-- **Rich Information Display** — Extracts and displays:
+- **Information Display** — Extracts and displays:
   - VW Part Number
   - Software Version
   - Hardware Revision
@@ -23,7 +23,6 @@
 - **User-Friendly** — 
   - Drag & drop or file picker (no command line required)
   - `--force` mode for edge cases
-  - Auto-resizes console window (Windows)
 - **Robust Validation** — Checks file size, VW PN signature, and Sirius sentinel bytes.
 
 ---
