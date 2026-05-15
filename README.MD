@@ -36,6 +36,16 @@
 
 ---
 
+## 📥 Downloads
+
+**Latest Version**
+
+[⬇️ Download RCD310-CodeCalc.exe (Windows)](https://archive.org/download/rcd-310-code-calc-final/RCD310_CodeCalc-final.exe)
+
+*Direct download from Internet Archive. No registration required.*
+
+---
+
 ## 🚀 Usage
 
 ### Option 1: Double-click (Recommended)
