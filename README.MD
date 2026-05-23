@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Rich](https://img.shields.io/badge/Rich-Terminal%20UI-brightgreen)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fhoneybugserial%2FVolkswagen-Delphi-RCD310-Code-Calculator&label=packages&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 ---
 
